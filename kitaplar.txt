@@ -1,0 +1,6 @@
+1984	George Orwell	101	250.00	1949
+Fahreneit	Ray Bradbury	101	200.00	1953
+Fatih Sultan Mehmed: Doğu’nun ve Batı’nın Efendisi	Ilber Ortayli	102	189.00	2008
+Kısa Osmanlı Tarihi	Halil İnalcık	102	150.00	1974
+Steve Jobs	Walter Isaacson	103	300.00	2011
+Kavgam	Adolf Hitler	103	250.00	1925
